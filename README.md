@@ -1,4 +1,4 @@
-Lab 7 - Jeremie Garzon 40062316
+## Lab 7 - Jeremie Garzon 40062316
 
 ![image](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-JeremieGar/assets/46535802/be60f63c-7312-45d3-a89b-ceceb909885d)
 
